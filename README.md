@@ -6,8 +6,11 @@ INTRODUCTION
 CONTACT
 
   If you want to contact us, here are some ways:
+  
   DISCORD : nplsm#8634, [RU]Baba_vic#1005
+  
   DISCORD SERVER : https://discord.gg/Hd4yggydUN
+  
   E-MAIL : horizon.devteam.contact@gmail.com
   
 CONTRIBUTING TO PROJECTS
